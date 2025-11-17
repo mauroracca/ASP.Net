@@ -1,0 +1,520 @@
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\wsRest.dll.config
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\wsRest.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\wsRest.pdb
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\csc.exe
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\csc.exe.config
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\csc.rsp
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\csi.exe
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\csi.exe.config
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\csi.rsp
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.AppContext.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Collections.Immutable.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Console.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Globalization.Calendars.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.IO.Compression.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.IO.FileSystem.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Net.Http.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Net.Sockets.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Reflection.Metadata.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.ValueTuple.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Xml.XPath.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\vbc.exe
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\vbc.exe.config
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\vbc.rsp
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\VBCSCompiler.exe
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\roslyn\VBCSCompiler.exe.config
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Antlr3.Runtime.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Microsoft.Web.Infrastructure.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Newtonsoft.Json.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Net.Http.Formatting.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Helpers.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Http.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Http.WebHost.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Mvc.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Optimization.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Razor.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.WebPages.Deployment.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.WebPages.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.WebPages.Razor.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\WebGrease.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Newtonsoft.Json.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Net.Http.Formatting.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Helpers.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Http.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Http.WebHost.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Mvc.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Optimization.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Razor.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.WebPages.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.WebPages.Deployment.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.WebPages.Razor.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Antlr3.Runtime.pdb
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\it\System.Net.Http.Formatting.resources.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\it\System.Web.Helpers.resources.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\it\System.Web.Http.resources.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\it\System.Web.Http.WebHost.resources.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\it\System.Web.Mvc.resources.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\it\System.Web.Optimization.resources.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\it\System.Web.Razor.resources.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\it\System.Web.WebPages.resources.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\it\System.Web.WebPages.Deployment.resources.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\it\System.Web.WebPages.Razor.resources.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\obj\Debug\wsRest.csproj.CoreCompileInputs.cache
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\obj\Debug\wsRest.csproj.CopyComplete
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\obj\Debug\wsRest.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\obj\Debug\wsRest.pdb
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Microsoft.IdentityModel.Logging.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Microsoft.IdentityModel.Logging.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\bin\System.Web.Cors.dll
+D:\Scuola\A.S.2020-2021\Classi\5D\Info\Esercizi\wsRest\obj\Debug\wsRest.csproj.AssemblyReference.cache
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\wsRest.dll.config
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\wsRest.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\wsRest.pdb
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\csc.exe
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\csc.exe.config
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\csc.rsp
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\csi.exe
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\csi.exe.config
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\csi.rsp
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.AppContext.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Console.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.IO.Compression.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Net.Http.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.ValueTuple.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\vbc.exe
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\vbc.exe.config
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\vbc.rsp
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\VBCSCompiler.exe
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Antlr3.Runtime.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Newtonsoft.Json.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Net.Http.Formatting.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Cors.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Helpers.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Http.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Http.WebHost.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Mvc.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Optimization.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Razor.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.WebPages.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.WebPages.Razor.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\WebGrease.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Newtonsoft.Json.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Net.Http.Formatting.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Helpers.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Http.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Http.WebHost.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Mvc.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Optimization.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.Razor.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.WebPages.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\System.Web.WebPages.Razor.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Antlr3.Runtime.pdb
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\it\System.Net.Http.Formatting.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\it\System.Web.Helpers.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\it\System.Web.Http.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\it\System.Web.Http.WebHost.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\it\System.Web.Mvc.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\it\System.Web.Optimization.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\it\System.Web.Razor.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\it\System.Web.WebPages.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\obj\Debug\wsRest.csproj.AssemblyReference.cache
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\obj\Debug\wsRest.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\obj\Debug\wsRest.csproj.CopyComplete
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\obj\Debug\wsRest.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\15 wsRestJWT Mio\obj\Debug\wsRest.pdb
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\wsRest.dll.config
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\wsRest.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\wsRest.pdb
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\csc.exe
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\csc.exe.config
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\csc.rsp
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\csi.exe
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\csi.exe.config
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\csi.rsp
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.AppContext.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Console.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.IO.Compression.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Net.Http.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.ValueTuple.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\vbc.exe
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\vbc.exe.config
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\vbc.rsp
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\VBCSCompiler.exe
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Antlr3.Runtime.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Newtonsoft.Json.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Net.Http.Formatting.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Cors.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Helpers.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Http.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Http.WebHost.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Mvc.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Optimization.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Razor.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.Razor.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\WebGrease.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Newtonsoft.Json.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Net.Http.Formatting.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Helpers.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Http.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Http.WebHost.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Mvc.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Optimization.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.Razor.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.Razor.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Antlr3.Runtime.pdb
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\it\System.Net.Http.Formatting.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\it\System.Web.Helpers.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\it\System.Web.Http.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\it\System.Web.Http.WebHost.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\it\System.Web.Mvc.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\it\System.Web.Optimization.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\it\System.Web.Razor.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\it\System.Web.WebPages.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\obj\Debug\wsRest.csproj.AssemblyReference.cache
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\obj\Debug\wsRest.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\obj\Debug\wsRest.csproj.CopyComplete
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\obj\Debug\wsRest.dll
+C:\Users\mauro\Dropbox\A.S.2021-2022\TempExercise\ASP.Net\JWT\obj\Debug\wsRest.pdb
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\wsRest.dll.config
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\wsRest.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\wsRest.pdb
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\csc.exe
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\csc.exe.config
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\csc.rsp
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\csi.exe
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\csi.exe.config
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\csi.rsp
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.AppContext.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Console.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.IO.Compression.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Net.Http.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.ValueTuple.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\vbc.exe
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\vbc.exe.config
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\vbc.rsp
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\VBCSCompiler.exe
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Antlr3.Runtime.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Newtonsoft.Json.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Net.Http.Formatting.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Cors.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Helpers.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Http.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Http.WebHost.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Mvc.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Optimization.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Razor.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.Razor.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\WebGrease.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Newtonsoft.Json.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Net.Http.Formatting.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Helpers.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Http.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Http.WebHost.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Mvc.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Optimization.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.Razor.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\System.Web.WebPages.Razor.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Antlr3.Runtime.pdb
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\it\System.Net.Http.Formatting.resources.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\it\System.Web.Helpers.resources.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\it\System.Web.Http.resources.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\it\System.Web.Http.WebHost.resources.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\it\System.Web.Mvc.resources.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\it\System.Web.Optimization.resources.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\it\System.Web.Razor.resources.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\it\System.Web.WebPages.resources.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\obj\Debug\wsRest.csproj.AssemblyReference.cache
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\obj\Debug\wsRest.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\obj\Debug\wsRest.csproj.CopyComplete
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\obj\Debug\wsRest.dll
+C:\Users\mauro\Dropbox\A.S.2022-2023\TempExercise\ASP.Net\JWT\obj\Debug\wsRest.pdb
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\wsRest.dll.config
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\wsRest.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\wsRest.pdb
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\csc.exe
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\csc.exe.config
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\csc.rsp
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\csi.exe
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\csi.exe.config
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\csi.rsp
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.AppContext.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Console.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.IO.Compression.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Net.Http.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.ValueTuple.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\vbc.exe
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\vbc.exe.config
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\vbc.rsp
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\VBCSCompiler.exe
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Antlr3.Runtime.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Newtonsoft.Json.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Net.Http.Formatting.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Cors.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Helpers.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Http.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Http.WebHost.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Mvc.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Optimization.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Razor.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.WebPages.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.WebPages.Razor.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\WebGrease.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Newtonsoft.Json.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Net.Http.Formatting.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Helpers.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Http.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Http.WebHost.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Mvc.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Optimization.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.Razor.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.WebPages.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\System.Web.WebPages.Razor.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Antlr3.Runtime.pdb
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\it\System.Net.Http.Formatting.resources.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\it\System.Web.Helpers.resources.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\it\System.Web.Http.resources.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\it\System.Web.Http.WebHost.resources.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\it\System.Web.Mvc.resources.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\it\System.Web.Optimization.resources.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\it\System.Web.Razor.resources.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\it\System.Web.WebPages.resources.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\obj\Debug\wsRest.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\obj\Debug\wsRest.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\obj\Debug\wsRest.dll
+C:\Users\mauro\Desktop\Training\ASP.Net\JWT\obj\Debug\wsRest.pdb
+C:\Users\Mauro\Desktop\Training\ASP.Net\JWT\obj\Debug\wsRest.csproj.Up2Date

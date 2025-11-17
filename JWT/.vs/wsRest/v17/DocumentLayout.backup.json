@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6098EF-238C-4481-94A1-5A9C176C6EEA}|wsRest.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jwt\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1B6098EF-238C-4481-94A1-5A9C176C6EEA}|wsRest.csproj|solutionrelative:js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6098EF-238C-4481-94A1-5A9C176C6EEA}|wsRest.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jwt\\controllers\\fumetticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6098EF-238C-4481-94A1-5A9C176C6EEA}|wsRest.csproj|solutionrelative:controllers\\fumetticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6098EF-238C-4481-94A1-5A9C176C6EEA}|wsRest.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jwt\\js\\libreria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1B6098EF-238C-4481-94A1-5A9C176C6EEA}|wsRest.csproj|solutionrelative:js\\libreria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "libreria.js",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\JWT\\js\\libreria.js",
+              "RelativeDocumentMoniker": "js\\libreria.js",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\JWT\\js\\libreria.js",
+              "RelativeToolTip": "js\\libreria.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-13T08:23:20.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\JWT\\js\\index.js",
+              "RelativeDocumentMoniker": "js\\index.js",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\JWT\\js\\index.js*",
+              "RelativeToolTip": "js\\index.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-13T08:21:29.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FumettiController.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\JWT\\Controllers\\FumettiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FumettiController.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\JWT\\Controllers\\FumettiController.cs",
+              "RelativeToolTip": "Controllers\\FumettiController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAIwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:11:32.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jsonappverifica5d\\controllers\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:controllers\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jsonappverifica5d\\bin\\auto.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:bin\\auto.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jsonappverifica5d\\bin\\utenti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:bin\\utenti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jsonappverifica5d\\pagctrlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:pagctrlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jsonappverifica5d\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jsonappverifica5d\\pagctrlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:pagctrlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\models\\automodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:models\\automodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7E1E29-A51D-4E49-83C6-93994338F348}|jsonApp.csproj|solutionrelative:models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\Controllers\\AutoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutoController.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\Controllers\\AutoController.cs",
+              "RelativeToolTip": "Controllers\\AutoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:59:34.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "utenti.json",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\bin\\utenti.json",
+              "RelativeDocumentMoniker": "bin\\utenti.json",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\bin\\utenti.json",
+              "RelativeToolTip": "bin\\utenti.json",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAG0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T08:12:29.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auto.json",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\bin\\auto.json",
+              "RelativeDocumentMoniker": "bin\\auto.json",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\bin\\auto.json",
+              "RelativeToolTip": "bin\\auto.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T08:12:21.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pagCtrLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\pagCtrLogin.aspx.cs",
+              "RelativeDocumentMoniker": "pagCtrLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\pagCtrLogin.aspx.cs",
+              "RelativeToolTip": "pagCtrLogin.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:07:51.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pagCtrLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\pagCtrLogin.aspx",
+              "RelativeDocumentMoniker": "pagCtrLogin.aspx",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\pagCtrLogin.aspx",
+              "RelativeToolTip": "pagCtrLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-26T08:07:46.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T17:49:40.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-12-13T17:42:10.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "autoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\Models\\autoModel.cs",
+              "RelativeDocumentMoniker": "Models\\autoModel.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\Models\\autoModel.cs",
+              "RelativeToolTip": "Models\\autoModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T17:41:05.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "personModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\Models\\personModel.cs",
+              "RelativeDocumentMoniker": "Models\\personModel.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\Models\\personModel.cs",
+              "RelativeToolTip": "Models\\personModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T17:40:09.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\index.aspx.cs",
+              "RelativeDocumentMoniker": "index.aspx.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\index.aspx.cs",
+              "RelativeToolTip": "index.aspx.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAQwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T21:56:36.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\index.aspx",
+              "RelativeDocumentMoniker": "index.aspx",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\jsonAppVerifica5D\\index.aspx",
+              "RelativeToolTip": "index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2023-12-06T21:24:37.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

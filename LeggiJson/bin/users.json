@@ -1,0 +1,23 @@
+[
+  {
+    "user": "1",
+    "pwd": "1",
+    "nome": "Severus",
+    "cognome": "Piton",
+    "dipartimento": "Difesa contro le Arti Oscure"
+  },
+  {
+    "user": "2",
+    "pwd": "2",
+    "nome": "Albus",
+    "cognome": "Silente",
+    "dipartimento": "Presidenza"
+  },
+  {
+    "user": "3",
+    "pwd": "3",
+    "nome": "Minerva",
+    "cognome": "McGranitt",
+    "dipartimento": "Trasfigurazione"
+  }
+]

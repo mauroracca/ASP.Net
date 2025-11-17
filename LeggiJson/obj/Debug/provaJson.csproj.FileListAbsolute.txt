@@ -1,0 +1,123 @@
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\provaJson.dll.config
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\provaJson.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\provaJson.pdb
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\csc.exe
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\csc.exe.config
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\csc.rsp
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\csi.exe
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\csi.exe.config
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\csi.rsp
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\System.Collections.Immutable.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\System.Reflection.Metadata.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\vbc.exe
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\vbc.exe.config
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\vbc.rsp
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\VBCSCompiler.exe
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\VBCSCompiler.exe.config
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\Newtonsoft.Json.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\Newtonsoft.Json.xml
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\obj\Debug\provaJson.csproj.AssemblyReference.cache
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\obj\Debug\provaJson.csproj.CoreCompileInputs.cache
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\obj\Debug\provaJson.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\obj\Debug\provaJson.pdb
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\System.Buffers.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\System.Memory.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\System.Numerics.Vectors.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\provaJson\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\provaJson.dll.config
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\provaJson.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\provaJson.pdb
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\csc.exe
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\csc.exe.config
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\csc.rsp
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\csi.exe
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\csi.exe.config
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\csi.rsp
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\System.Buffers.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\System.Collections.Immutable.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\System.Memory.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\System.Numerics.Vectors.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\System.Reflection.Metadata.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\vbc.exe
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\vbc.exe.config
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\vbc.rsp
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\VBCSCompiler.exe
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\roslyn\VBCSCompiler.exe.config
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\Newtonsoft.Json.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\bin\Newtonsoft.Json.xml
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\obj\Debug\provaJson.csproj.AssemblyReference.cache
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\obj\Debug\provaJson.csproj.CoreCompileInputs.cache
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\obj\Debug\provaJson.dll
+D:\Scuola\A.S.2021-2022_Progetti\Esercitazioni\ASP.net\11 JsonCity_datatableJquery\obj\Debug\provaJson.pdb
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\provaJson.dll.config
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\provaJson.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\provaJson.pdb
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\csc.exe
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\csc.exe.config
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\csc.rsp
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\csi.exe
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\csi.exe.config
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\csi.rsp
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\System.Buffers.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\System.Collections.Immutable.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\System.Memory.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\System.Numerics.Vectors.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\vbc.exe
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\vbc.exe.config
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\vbc.rsp
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\VBCSCompiler.exe
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\roslyn\VBCSCompiler.exe.config
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\Newtonsoft.Json.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\bin\Newtonsoft.Json.xml
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\obj\Debug\provaJson.csproj.AssemblyReference.cache
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\obj\Debug\provaJson.csproj.CoreCompileInputs.cache
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\obj\Debug\provaJson.dll
+C:\Dropbox\A.S.2021-2022\TempExercise\LeggiJson\obj\Debug\provaJson.pdb

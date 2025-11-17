@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A9BDE-3D81-44C0-AB11-3D36B1DFDD3F}|CityJson.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F2A9BDE-3D81-44C0-AB11-3D36B1DFDD3F}|CityJson.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A9BDE-3D81-44C0-AB11-3D36B1DFDD3F}|CityJson.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\cityjson\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2A9BDE-3D81-44C0-AB11-3D36B1DFDD3F}|CityJson.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A9BDE-3D81-44C0-AB11-3D36B1DFDD3F}|CityJson.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2A9BDE-3D81-44C0-AB11-3D36B1DFDD3F}|CityJson.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A9BDE-3D81-44C0-AB11-3D36B1DFDD3F}|CityJson.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\models\\cityjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2A9BDE-3D81-44C0-AB11-3D36B1DFDD3F}|CityJson.csproj|solutionrelative:models\\cityjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A9BDE-3D81-44C0-AB11-3D36B1DFDD3F}|CityJson.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2A9BDE-3D81-44C0-AB11-3D36B1DFDD3F}|CityJson.csproj|solutionrelative:index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 224,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T15:37:08.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-09T08:39:16.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cityJson.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\Models\\cityJson.cs",
+              "RelativeDocumentMoniker": "Models\\cityJson.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\Models\\cityJson.cs",
+              "RelativeToolTip": "Models\\cityJson.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-09T08:35:58.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\index.aspx.cs",
+              "RelativeDocumentMoniker": "index.aspx.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\index.aspx.cs",
+              "RelativeToolTip": "index.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-11-08T18:23:22.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\index.aspx",
+              "RelativeDocumentMoniker": "index.aspx",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\CityJson\\index.aspx",
+              "RelativeToolTip": "index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2023-11-08T17:56:58.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

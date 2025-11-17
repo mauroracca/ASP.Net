@@ -1,0 +1,184 @@
+[
+  {
+    "abitSup": {
+      "ab": 150,
+      "sup": 2000
+    },
+    "city": "Abazia di Sulmona",
+    "country": "IY",
+    "country_iso3166": "IT",
+    "country_name": "Italy",
+    "l": "/q/zmw:00000.1.16227",
+    "name": "Abazia di sulmona",
+    "state": "AB",
+    "zmw": "00000.1.16227"
+  },
+  {
+    "name": "Abbadia Cerreto",
+    "city": "Abbadia Cerreto",
+    "state": "LM",
+    "country": "IY",
+    "country_iso3166": "IT",
+    "country_name": "Italy",
+    "zmw": "00000.1.16080",
+    "l": "/q/zmw:00000.1.16080",
+    "abitSup": {
+      "ab": 1500,
+      "sup": 5000
+    }
+  },
+  {
+    "name": "Abbadia Alpina",
+    "city": "Abbadia Alpina",
+    "state": "LM",
+    "country": "IY",
+    "country_iso3166": "IT",
+    "country_name": "Italy",
+    "zmw": "00000.1.16080",
+    "l": "/q/zmw:00000.1.16080",
+    "abitSup": {
+      "ab": 21400,
+      "sup": 125000
+    }
+  },
+  {
+    "name": "Rovigo",
+    "city": "Rovigo",
+    "state": null,
+    "country": null,
+    "country_iso3166": null,
+    "country_name": null,
+    "zmw": null,
+    "l": null,
+    "abitSup": {
+      "ab": 154234,
+      "sup": 256325
+    }
+  },
+  {
+    "name": "Torino",
+    "city": "Torino",
+    "state": null,
+    "country": null,
+    "country_iso3166": null,
+    "country_name": null,
+    "zmw": null,
+    "l": null,
+    "abitSup": {
+      "ab": 954285,
+      "sup": 725636
+    }
+  },
+  {
+    "name": "Cavour",
+    "city": "Cavour",
+    "state": null,
+    "country": null,
+    "country_iso3166": null,
+    "country_name": null,
+    "zmw": null,
+    "l": null,
+    "abitSup": {
+      "ab": 4526,
+      "sup": 23456
+    }
+  },
+  {
+    "name": "Saluzzo",
+    "city": "Saluzzo",
+    "state": null,
+    "country": null,
+    "country_iso3166": null,
+    "country_name": null,
+    "zmw": null,
+    "l": null,
+    "abitSup": {
+      "ab": 15896,
+      "sup": 98653
+    }
+  },
+  {
+    "name": "Savigliano",
+    "city": "Savigliano",
+    "state": null,
+    "country": null,
+    "country_iso3166": null,
+    "country_name": null,
+    "zmw": null,
+    "l": null,
+    "abitSup": {
+      "ab": 19856,
+      "sup": 84521
+    }
+  },
+  {
+    "name": "Fossano",
+    "city": "Fossano",
+    "state": null,
+    "country": null,
+    "country_iso3166": null,
+    "country_name": null,
+    "zmw": null,
+    "l": null,
+    "abitSup": {
+      "ab": 23568,
+      "sup": 198565
+    }
+  },
+  {
+    "name": "Genola",
+    "city": "Genola",
+    "state": null,
+    "country": null,
+    "country_iso3166": null,
+    "country_name": null,
+    "zmw": null,
+    "l": null,
+    "abitSup": {
+      "ab": 5423,
+      "sup": 65893
+    }
+  },
+  {
+    "name": "Busca",
+    "city": "Busca",
+    "state": null,
+    "country": null,
+    "country_iso3166": null,
+    "country_name": null,
+    "zmw": null,
+    "l": null,
+    "abitSup": {
+      "ab": 15452,
+      "sup": 56852
+    }
+  },
+  {
+    "name": "Abbadia Cerreto",
+    "city": "Abbadia Cerreto",
+    "state": null,
+    "country": null,
+    "country_iso3166": null,
+    "country_name": null,
+    "zmw": null,
+    "l": null,
+    "abitSup": {
+      "ab": 1500,
+      "sup": 5000
+    }
+  },
+  {
+    "name": "Abbadia Alpina",
+    "city": "Abbadia Alpina",
+    "state": null,
+    "country": null,
+    "country_iso3166": null,
+    "country_name": null,
+    "zmw": null,
+    "l": null,
+    "abitSup": {
+      "ab": 21400,
+      "sup": 125000
+    }
+  }
+]

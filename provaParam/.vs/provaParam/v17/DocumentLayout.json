@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CB2FD-C54C-4B98-9F1A-5EE147B833E1}|provaParam\\provaParam.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaparam\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CB2FD-C54C-4B98-9F1A-5EE147B833E1}|provaParam\\provaParam.csproj|solutionrelative:provaparam\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CB2FD-C54C-4B98-9F1A-5EE147B833E1}|provaParam\\provaParam.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaparam\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD2CB2FD-C54C-4B98-9F1A-5EE147B833E1}|provaParam\\provaParam.csproj|solutionrelative:provaparam\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CB2FD-C54C-4B98-9F1A-5EE147B833E1}|provaParam\\provaParam.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\provaparam\\provaparam\\pag2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CB2FD-C54C-4B98-9F1A-5EE147B833E1}|provaParam\\provaParam.csproj|solutionrelative:provaparam\\pag2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CB2FD-C54C-4B98-9F1A-5EE147B833E1}|provaParam\\provaParam.csproj|C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaparam\\pag2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD2CB2FD-C54C-4B98-9F1A-5EE147B833E1}|provaParam\\provaParam.csproj|solutionrelative:provaparam\\pag2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pag2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaParam\\pag2.aspx.cs",
+              "RelativeDocumentMoniker": "provaParam\\pag2.aspx.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaParam\\pag2.aspx.cs",
+              "RelativeToolTip": "provaParam\\pag2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:33:11.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pag2.aspx",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaParam\\pag2.aspx",
+              "RelativeDocumentMoniker": "provaParam\\pag2.aspx",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaParam\\pag2.aspx",
+              "RelativeToolTip": "provaParam\\pag2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-25T14:33:01.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaParam\\index.aspx.cs",
+              "RelativeDocumentMoniker": "provaParam\\index.aspx.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaParam\\index.aspx.cs",
+              "RelativeToolTip": "provaParam\\index.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:30:20.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaParam\\index.aspx",
+              "RelativeDocumentMoniker": "provaParam\\index.aspx",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Training\\ASP.Net\\provaParam\\provaParam\\index.aspx",
+              "RelativeToolTip": "provaParam\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-25T14:18:35.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
