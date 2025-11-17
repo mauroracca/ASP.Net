@@ -1,0 +1,46 @@
+﻿#assicurazioni {
+    background-color: darkgray;
+    text-align: center;
+}
+
+td, th{
+    font-family: Calibri, Verdana, sans-serif;
+    height: 40px;
+    line-height: 40px;
+    font-size: 26pt;
+    border-bottom: 2px solid black;
+    padding:30px;
+    
+}
+
+body {
+    background-color: darkgray;
+}
+
+#ricerca{
+    color: black;
+}
+
+.lblCod {
+    font-size: 18pt;
+}
+
+form{
+    margin-top: 30px;
+}
+    
+#ris, #ris2,#ris3,#risIns {
+    font-size: 22pt;
+    color:red;
+    margin-top:20px;
+}
+
+#ris2{
+    color: yellow;
+}
+
+#btnRicerca, #btnRicerca2, #btnInsert, #btnRicerca3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
