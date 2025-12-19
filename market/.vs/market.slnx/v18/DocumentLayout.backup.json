@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\market\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C771BD4-9687-4E2C-B33C-395EC92B635B}|market.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\market\\market.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C771BD4-9687-4E2C-B33C-395EC92B635B}|market.csproj|solutionrelative:market.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C771BD4-9687-4E2C-B33C-395EC92B635B}|market.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\market\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C771BD4-9687-4E2C-B33C-395EC92B635B}|market.csproj|solutionrelative:index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MAURO_DROPBOX_A.S.2025_2026_CLASSI_5D_INFO_MARKET.MDF/True/SqlTable/dbo.Utenti.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
@@ -21,41 +13,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\market\\index.aspx.cs",
-              "RelativeDocumentMoniker": "index.aspx.cs",
-              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\market\\index.aspx.cs",
-              "RelativeToolTip": "index.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T17:55:01.246Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "market.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\market\\market.aspx.cs",
-              "RelativeDocumentMoniker": "market.aspx.cs",
-              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\market\\market.aspx.cs",
-              "RelativeToolTip": "market.aspx.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T17:16:36.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.Utenti.sql",
+              "Title": "dbo.Utenti [Dati]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MAURO_DROPBOX_A.S.2025_2026_CLASSI_5D_INFO_MARKET.MDF/True/SqlTable/dbo.Utenti.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MAURO_DROPBOX_A.S.2025_2026_CLASSI_5D_INFO_MARKET.MDF/True/SqlTable/dbo.Utenti.sql",
+              "ToolTip": "dbo.Utenti [Dati]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-12-10T17:16:24.357Z"
+              "WhenOpened": "2025-12-17T17:46:40.71Z",
+              "EditorCaption": ""
             }
           ]
         }
