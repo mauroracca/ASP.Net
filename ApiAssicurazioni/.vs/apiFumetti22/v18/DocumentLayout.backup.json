@@ -7,15 +7,19 @@
       "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:controllers\\assicurazionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\apiassicurazioni\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\models\\assicurazionimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:models\\assicurazionimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\js\\libreria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:js\\libreria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\apiassicurazioni\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,12 +27,8 @@
       "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\js\\libreria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:js\\libreria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\models\\assicurazionimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:models\\assicurazionimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "assicurazioniModel.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\Models\\assicurazioniModel.cs",
               "RelativeDocumentMoniker": "Models\\assicurazioniModel.cs",
@@ -50,36 +50,36 @@
               "RelativeToolTip": "Models\\assicurazioniModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T19:16:08.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T19:16:08.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "libreria.js",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\js\\libreria.js",
               "RelativeDocumentMoniker": "js\\libreria.js",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\js\\libreria.js",
               "RelativeToolTip": "js\\libreria.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-11-26T19:14:53.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-26T19:01:36.171Z"
+              "WhenOpened": "2025-11-26T19:01:36.171Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -92,13 +92,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\js\\index.js",
               "RelativeDocumentMoniker": "js\\index.js",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\js\\index.js",
               "RelativeToolTip": "js\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-11-26T17:45:51.342Z",
               "EditorCaption": ""
@@ -111,14 +111,14 @@
               "RelativeDocumentMoniker": "Controllers\\AssicurazioniController.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\Controllers\\AssicurazioniController.cs",
               "RelativeToolTip": "Controllers\\AssicurazioniController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T17:39:58.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioni\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
@@ -126,8 +126,7 @@
               "RelativeToolTip": "App_Start\\WebApiConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T17:39:47.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T17:39:47.463Z"
             }
           ]
         }
