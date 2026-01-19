@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\apiassicurazionixangular\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\controllers\\assicurazionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:controllers\\assicurazionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\models\\assicurazionimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:models\\assicurazionimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MAURO_DROPBOX_TRAININGCLOUD_APIASSICURAZIONI_APP_DATA_ASSICURAZIONI.MDF/True/SqlTable/dbo.sedi.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\js\\libreria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:js\\libreria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-19T21:15:53.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.sedi.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MAURO_DROPBOX_TRAININGCLOUD_APIASSICURAZIONI_APP_DATA_ASSICURAZIONI.MDF/True/SqlTable/dbo.sedi.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MAURO_DROPBOX_TRAININGCLOUD_APIASSICURAZIONI_APP_DATA_ASSICURAZIONI.MDF/True/SqlTable/dbo.sedi.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-19T14:56:46.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "assicurazioniModel.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\Models\\assicurazioniModel.cs",
+              "RelativeDocumentMoniker": "Models\\assicurazioniModel.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\Models\\assicurazioniModel.cs",
+              "RelativeToolTip": "Models\\assicurazioniModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:16:08.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "libreria.js",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\js\\libreria.js",
+              "RelativeDocumentMoniker": "js\\libreria.js",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\js\\libreria.js",
+              "RelativeToolTip": "js\\libreria.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-26T19:14:53.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-26T19:01:36.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\js\\index.js",
+              "RelativeDocumentMoniker": "js\\index.js",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\js\\index.js",
+              "RelativeToolTip": "js\\index.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-26T17:45:51.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssicurazioniController.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\Controllers\\AssicurazioniController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssicurazioniController.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\Controllers\\AssicurazioniController.cs",
+              "RelativeToolTip": "Controllers\\AssicurazioniController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:39:58.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:39:47.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
