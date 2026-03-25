@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\controllers\\assicurazionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:controllers\\assicurazionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\controllers\\assicurazionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|solutionrelative:controllers\\assicurazionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6073E68-6ECD-48C4-8E4D-835E08E8F17F}|apiFumetti22.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Web.config",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\Web.config",
               "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAgwFYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-02-06T10:53:04.793Z",
               "EditorCaption": ""
@@ -51,12 +51,11 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-26T19:01:36.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T19:01:36.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AssicurazioniController.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\Controllers\\AssicurazioniController.cs",
               "RelativeDocumentMoniker": "Controllers\\AssicurazioniController.cs",
@@ -64,18 +63,17 @@
               "RelativeToolTip": "Controllers\\AssicurazioniController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAlwBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T17:39:58.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T17:39:58.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\ApiAssicurazioniXangular\\App_Start\\WebApiConfig.cs",
               "RelativeToolTip": "App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T17:39:47.463Z",
               "EditorCaption": ""
