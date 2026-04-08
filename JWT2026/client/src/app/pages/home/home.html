@@ -1,0 +1,96 @@
+<div class="home-wrapper">
+  <!-- Navbar -->
+  <nav class="navbar">
+    <span class="navbar-brand">🎬 Cinema5D</span>
+    <div class="navbar-right">
+      @if (currentUser) {
+        <span class="user-email">{{ currentUser.email }}</span>
+      }
+      <button class="btn-logout" (click)="logout()">Esci</button>
+    </div>
+  </nav>
+
+  <!-- Contenuto principale -->
+  <main class="main-content">
+    <div class="welcome-card">
+      <h2>✅ Login effettuato con successo!</h2>
+      <p>Sei autenticato tramite JWT.</p>
+    </div>
+
+    <!-- Dati utente -->
+    @if (currentUser) {
+      <div class="info-card">
+        <h3>👤 Dati utente</h3>
+        <table class="user-table">
+          <tr>
+            <th>ID</th>
+            <td>{{ currentUser.idUser }}</td>
+          </tr>
+          <tr>
+            <th>Email</th>
+            <td>{{ currentUser.email }}</td>
+          </tr>
+          <tr>
+            <th>Residenza</th>
+            <td>{{ currentUser.residenza }}</td>
+          </tr>
+          <tr>
+            <th>Regione</th>
+            <td>{{ currentUser.regione }}</td>
+          </tr>
+        </table>
+      </div>
+    }
+
+    <!-- Token JWT -->
+    <div class="info-card">
+      <h3>🔑 Token JWT</h3>
+      <div class="token-box">
+        <code>{{ getTokenPreview() }}</code>
+      </div>
+      <div class="token-actions">
+        <button class="btn-check" (click)="checkToken()">Valida token sul server</button>
+        @if (tokenValid === true) {
+          <span class="badge badge-ok">✔ Token valido per l'utente {{userEmail}}</span>
+        } @else if (tokenValid === false) {
+          <span class="badge badge-err">✘ Token non valido o scaduto</span>
+        }
+      </div>
+    </div>
+
+    <!--Richiesta dati della tabella film dopo avere controllato il token:-->
+    <div class="info-card">
+      <h3>🎥 Dati film (richiesta protetta)</h3>
+      <button class="btn-check" (click)="fetchMovies()">Carica dati film</button>
+      @if (films && films.length > 0) {
+        <div class="films-grid mt-2 mb-3" id="listaFilm">
+          @for (film of films; track film.idFilm) {
+            <div class="film-col">
+              <div class="card h-100 shadow-sm mt-3 mb-3">
+                <div class="film-poster-wrap">
+                  <img
+                    [src]="film.locandina || 'https://placehold.co/250x360?text=No+Image'"
+                    [alt]="film.titolo"
+                    class="film-poster"
+                    onerror="this.src='https://placehold.co/250x360?text=No+Image'"
+                  />
+                </div>
+                <div class="card-body d-flex flex-column">
+                  <h2 class="card-title">{{ film.titolo }}</h2>
+                  <p class="card-text small mb-1">
+                    {{ film.anno }} &bull; {{ film.durata }} min &bull;
+                    <span class="badge bg-success">{{ film.nomeCategoria }}</span>
+                  </p>
+                  <p class="card-text">{{ film.trama }}</p>
+                  <p class="card-text small mt-auto mb-0 text-muted">
+                    🎬 {{ film.nome }} {{ film.cognome }}
+                  </p>
+                </div>
+              </div>
+            </div>
+          }
+        </div>
+      }
+    </div>
+  </main>
+</div>
