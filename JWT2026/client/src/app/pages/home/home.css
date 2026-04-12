@@ -133,7 +133,7 @@
   flex-wrap: wrap;
 }
 
-.btn-check {
+.btn-action {
   background: #0f3460;
   color: #fff;
   border: none;
@@ -144,7 +144,7 @@
   transition: opacity 0.2s;
 }
 
-.btn-check:hover {
+.btn-action:hover {
   opacity: 0.85;
 }
 
