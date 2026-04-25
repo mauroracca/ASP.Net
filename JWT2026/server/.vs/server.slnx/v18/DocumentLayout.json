@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jwt2026\\server\\server\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|solutionrelative:server\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jwt2026\\server\\server\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|solutionrelative:server\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jwt2026\\server\\server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|solutionrelative:server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|solutionrelative:server\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|c:\\users\\mauro\\desktop\\training\\asp.net\\jwt2026\\server\\server\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|solutionrelative:server\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|solutionrelative:server\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C037E4E3-6603-4029-B23F-C7F63EF9436A}|server\\server.csproj|C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "server\\App_Start\\WebApiConfig.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\App_Start\\WebApiConfig.cs",
               "RelativeToolTip": "server\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T09:52:54.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\Global.asax.cs",
               "RelativeDocumentMoniker": "server\\Global.asax.cs",
@@ -63,18 +63,17 @@
               "RelativeToolTip": "server\\Global.asax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:52:14.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:52:14.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FilmController.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\Controllers\\FilmController.cs",
               "RelativeDocumentMoniker": "server\\Controllers\\FilmController.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\Controllers\\FilmController.cs",
               "RelativeToolTip": "server\\Controllers\\FilmController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAowCIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T08:10:27.848Z",
               "EditorCaption": ""
@@ -89,8 +88,7 @@
               "RelativeToolTip": "server\\Models\\UsersModel.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwBMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T08:00:42.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T08:00:42.408Z"
             },
             {
               "$type": "Document",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "server\\Models\\LoginResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwBIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T08:00:30.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T08:00:30.205Z"
             },
             {
               "$type": "Document",
@@ -120,13 +117,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "server\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\Controllers\\UserController.cs",
-              "RelativeToolTip": "server\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Training\\ASP.Net\\JWT2026\\server\\server\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "server\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAIgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T17:57:05.172Z",
               "EditorCaption": ""
