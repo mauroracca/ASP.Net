@@ -1,0 +1,5 @@
+paolo@gmail.com|Pablo|Paolo|Restivo|Fossano|+3933312345678
+luca@gmail.com|luc0123|Luca|Marini|Cuneo|+391235658954
+marta@gmail.com|coccinella|Marta|Del Duca|Savigliano|+39362541254
+lucia@gmail.com|nas01|Lucia|Mondello|Torino|+39652325698
+mirko@gmail.com|gatto01|Mirko|Rossiccio|Saluzzo|+3952652322563
